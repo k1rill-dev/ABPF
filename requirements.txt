@@ -1,0 +1,8 @@
+aiogram<3.0
+environs~=8.0.0
+requests
+flask
+flask-restful
+yfinance
+matplotlib
+PyPortfolioOpt
